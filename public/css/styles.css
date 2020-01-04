@@ -31,10 +31,15 @@ h1 {
   margin-bottom: 16px;
 }
 
-header a {
+.link,
+.link:visited {
   color: #888888;
   margin-right: 16px;
   text-decoration: none;
+}
+
+.link:hover {
+  color: black;
 }
 
 .portrait {
